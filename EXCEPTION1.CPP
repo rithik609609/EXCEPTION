@@ -22,4 +22,3 @@ cout<<"Cannot Divide Because value of X is:"<<i;
 }
 getch();}
 
-Part II: Multiple Exceptio
